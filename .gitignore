@@ -1,0 +1,7 @@
+venv/
+cpf_datasets/
+saved/
+pretrained_weights/
+__pycache__/
+*.pyc
+*.pth
